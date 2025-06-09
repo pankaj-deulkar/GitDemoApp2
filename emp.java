@@ -8,5 +8,10 @@ public int add(a,b)
  System.out.println(a+B);
 }
 
+public void m2()
+{
+System.out.println("Story 102");
+}
+
 
 }
