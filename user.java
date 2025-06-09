@@ -1,8 +1,6 @@
 public class user
 {
 
-String name="Java";
-
 public static void main(STring [] args)
 {
 System.out.println("This is User class");
